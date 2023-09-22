@@ -1,5 +1,5 @@
 - Welcome to the MISI group git library
-- Each project area has its own library - please only edit code in repos related to your project.
+- Each project area has its own repo - please only edit code in repos related to your project.
 - When working on code from this library - please download a local copy to work on that and only push changes to git with notification to all others working on that section of the code base.
 - The intention is that this repo will host functional and completed code only - NOT WORKING COPIES.
 - This library will inevitably contain code for different languages and formats (MATLAB, LABVIEW, C++ etc.), please adhere to best practices for the language you are working in.
